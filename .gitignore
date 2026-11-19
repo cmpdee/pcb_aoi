@@ -1,0 +1,16 @@
+.venv/
+.buildvenv*/
+build/
+dist/
+__pycache__/
+*.py[cod]
+*.spec
+.DS_Store
+Thumbs.db
+
+# Local / private inspection material and caches
+local_data/
+workspace/
+results/
+.pytest_cache/
+*.log

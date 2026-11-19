@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: c:\programdata\altium\altium365data\arkservice\7eb63bed-d5f1-413e-ae4b-40c3ae2014cc\s\e\EVU-BA-2.5.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=evu-ba-2.5-roundholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=evu-ba-2.5-slotholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=evu-ba-2.5-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,gbl

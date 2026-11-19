@@ -1,0 +1,18 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 13:24:31 On 19.11.2026
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [EVU-BA-2.5.PcbDoc]
+   Generated File[EVU-BA-2.5-RoundHoles-Plated.TXT]
+   Generated File[EVU-BA-2.5-RoundHoles-NonPlated.TXT]
+   Generated File[EVU-BA-2.5-SlotHoles-Plated.TXT]
+   Generated File[EVU-BA-2.5.LDP]
+   Generated File[EVU-BA-2.5.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 13:24:31 On 19.11.2026

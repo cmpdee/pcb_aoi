@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: EVU-BA-2.5.PcbDoc   19.11.2026  13:24:31
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : EVU-BA-2.5-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : EVU-BA-2.5-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : EVU-BA-2.5-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             696       PTH        1969.82mm (77.55inch)
+T2      0.6mm (24mil)                                             Slot              8         PTH        222.51mm (8.76inch)
+T3      0.71mm (28mil)                                            Round             10        PTH        11.43mm (0.45inch)
+T4      1.05mm (41mil)                                            Round             10        PTH        22.86mm (0.90inch)
+T5      1.1mm (43mil)                                             Round             125       PTH        536.25mm (21.11inch)
+T6      3mm (118mil)                                              Round             4         PTH        253.07mm (9.96inch)
+T7      0.7mm (28mil)                                             Round             4         NPTH       81.86mm (3.22inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              857
+
+Total Processing Time (hh:mm:ss) : 00:00:00
